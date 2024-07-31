@@ -15,13 +15,13 @@ I'm a passionate DevOps engineer with over 8 years of experience, coming from a 
 ## Projects
 Here are some of the projects I've worked on:
 
+- **Project 2**: [Web hosting with GitHub Actions](link)
+  - Description: You'll find this project in my repository. This website was created to organize the project materials as I study and research.
+  - Technologies: HTML, CSS, JavaScript, Git, GitHub Actions
+
 - **Project 1**: [Web Applicaiton](link)
   - Description: Documentation Web application, where anyone can easily organize their documents.
   - Technologies: DevOps CI/CD pipeline, AWS cloud, Linux, Ansible, Docker
-
-- **Project 2**: [Project Name](link)
-  - Description: Brief description of the project.
-  - Technologies: List of technologies used.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gpokhrel/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOtWIlJwOQfKFSlDURCGTlQ%3D%3D)
