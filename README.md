@@ -1,6 +1,5 @@
-## Hi there, I'm G-Yan! 👋
+## Hello there, I'm G-Yan! 👋
 
-## About Me
 I'm a passionate DevOps engineer with over 8 years of experience, coming from a strong background in Unix and Linux System administration. I have a deep interest in cutting-edge technologies and enjoy automating processes to enhance efficiency and reliability.
 
 ## Skills
@@ -34,9 +33,6 @@ Here are some of the projects I've worked on:
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 ---
-
-Thanks for visiting my GitHub profile! Have a great day! 😊
-
 
 <!--
 **Pokrel/Pokrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
