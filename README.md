@@ -6,7 +6,7 @@ I'm a passionate DevOps engineer with over 8 years of experience, coming from a 
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
 - **IaC:**
     - **Configuration Management**: Ansible
-    - **Infrastructure Provisioning: Terraform
+    - **Infrastructure Provisioning**: Terraform
 - **Cloud Platforms**: AWS (Amazon Web Services)
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
