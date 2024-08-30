@@ -4,12 +4,14 @@ I'm a passionate DevOps engineer with over 8 years of experience, coming from a 
 
 ## 🔭 Skills
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
-- **Configuration Management**: Ansible
+- **IaC:**
+    - **Configuration Management**: Ansible
+    - **Infrastructure Provisioning: Terraform
 - **Cloud Platforms**: AWS (Amazon Web Services)
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
 - **Version Control**: Git
-- **Scripting and Automation**: Shell Scripting, Python
+- **Scripting and Automation**: Shell & Python
 - **Virtulization**: VMware, ESXi
 
 ## 🛠 Tools and Technologies
