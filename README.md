@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm G-Yan!👻 
+## 👋 Hello there, I'm Gian!👻 
 
 I'm a passionate DevOps engineer with over 8 years of experience, coming from a strong background in Unix and Linux System administration. I have a deep interest in cutting-edge technologies and enjoy automating processes to enhance efficiency and reliability.
 
