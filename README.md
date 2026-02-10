@@ -1,6 +1,7 @@
 ## 👋 Hello there, I'm Gian!👻 
 
-I'm a passionate DevOps engineer with over 8 years of experience, coming from a strong background in Unix and Linux System administration. I have a deep interest in cutting-edge technologies and enjoy automating processes to enhance efficiency and reliability.
+Passionate DevOps engineer with over 8 years of experience, comes from a strong background in Unix and Unix/Linux System administration. Deep interest in cutting-edge technologies and enjoys automating processes to enhance efficiency and reliability.
+(Update)Becomes Vibe coder..
 
 ## 🔭 Skills
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
