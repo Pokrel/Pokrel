@@ -1,7 +1,9 @@
-## 👋 Hello there, Gian here!👻 
+## 👋 Hello there, Gyan here!
 
-Passionate DevOps engineer with over 8 years of experience, comes from a strong background in Unix and Unix/Linux System administration. Deep interest in cutting-edge technologies and enjoys automating processes to enhance efficiency and reliability.
-(Update)Becomes Vibe coder..
+With over Eight years of experience as a Unix/Linux and DevOps Engineer, I've supported both the production operation of the system and in-house development team throughout the deployment lifecycle. This journey has provided me with a very good understanding of fundamental industry systems and technologies.
+
+Beyond my profession, I’m a seeker - curious about the cosmos, fascinated by nature’s mysteries, and inspired by the power of emerging technologies like Artificial Intelligence, Machine Learning, and Quantum Computing.
+My fascination with both the natural world and the frontiers of technology has shaped the way I think and dream.
 
 ## 🔭 Skills
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
