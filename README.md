@@ -1,9 +1,8 @@
 ## 👋 Hello there, Gyan here!
 
-With over Eight years of experience as a Unix/Linux and DevOps Engineer, I've supported both the production operation of the system and in-house development team throughout the deployment lifecycle. This journey has provided me with a very good understanding of fundamental industry systems and technologies.
+With over Eight years of experience as a Linux and DevOps Engineer, I've supported both the production operation of the system and in-house development team throughout the deployment lifecycle. This journey has provided me with a very good understanding of the software development lifecycle, fundamental industry systems and technologies.
 
-Beyond my profession, I’m a seeker - curious about the cosmos, fascinated by nature’s mysteries, and inspired by the power of emerging technologies like Artificial Intelligence, Machine Learning, and Quantum Computing.
-My fascination with both the natural world and the frontiers of technology has shaped the way I think and dream.
+Beyond my profession, I’m curious about Astronomy, especially the search for habitable exoplanets. I'm not an astrophysicist, but I believe this is exactly where technology can make a difference. I'm fascinated by nature’s mysteries, and inspired by the power of emerging technologies like Ai, ML and Data Science.
 
 ## 🔭 Skills
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
