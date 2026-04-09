@@ -6,9 +6,7 @@ Beyond my profession, I’m curious about Astronomy, especially the search for h
 
 ## 🔭 Skills
 - **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
-- **IaC:**
-    - **Configuration Management**: Ansible
-    - **Infrastructure Provisioning**: Terraform
+- **IaC**: Ansible, Terraform
 - **Cloud Platforms**: AWS (Amazon Web Services)
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
