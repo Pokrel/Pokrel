@@ -5,7 +5,7 @@ With over Eight years of experience as a Linux and DevOps Engineer, I've support
 Beyond my profession, I’m curious about Astronomy, especially the search for habitable exoplanets. I'm not an astrophysicist, but I believe this is exactly where technology can make a difference. I'm fascinated by nature’s mysteries, and inspired by the power of emerging technologies like Ai, ML and Data Science etc.
 
 ## 🔭 Skills
-- **Operating Systems**: Linux - Redhat, CentOS, Ubuntu
+- **Operating Systems**: Linux (Redhat, CentOS, Ubuntu)
 - **IaC**: Ansible, Terraform
 - **Cloud Platforms**: AWS (Amazon Web Services)
 - **CI/CD**: Jenkins
